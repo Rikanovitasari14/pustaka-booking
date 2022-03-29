@@ -34,7 +34,7 @@
                 <td>SKS</td>
                 <td>:</td>
                 <td>
-                    <?= $SKS; ?>
+                    <?= $sks; ?>
                 </td>
             </tr>
             <tr>
